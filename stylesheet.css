@@ -46,6 +46,10 @@ padding:100px 80px
 .contents-item{
   float:left;
 }
+.picture{
+   width:200;
+   height:200;
+}
 .contact-form{
   padding-tpo:100px;
 }
